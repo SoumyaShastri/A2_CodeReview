@@ -33,7 +33,7 @@ if (!is.na(as.numeric(answer))) { # checks if input is a valid numeric value and
 }
 
 #*Code Review by Soumya Shastri 
-#*Test
+#*Please see branch "Code-Review" for detailed comments. 
 
 
 
